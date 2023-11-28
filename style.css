@@ -1,6 +1,6 @@
 body {
   background-image: url("Aqua_background.jpeg");
-  background-size: 100%;
+  background-size: cover;
 }
 h1 {
  color: cyan;
